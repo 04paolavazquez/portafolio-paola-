@@ -1,0 +1,40 @@
+/* Barra de navegacion */
+
+.navbar {
+    padding: 2rem;
+    background-color: #609dda;
+  }
+  
+  .navbar-collapse {
+    align-items: center;
+    justify-content: space-between;  
+  }
+
+
+
+
+*{
+    margin:auto;
+    text-align:center;
+}
+
+
+#title{text-align: center;}
+
+#pagina sobre mi{
+    text-align: center;
+}
+
+#carrucel{
+    
+    font-size: 200px;
+    font-weight: 200;
+    margin: solid 10px black;
+
+}
+
+h1{ text-align: center;
+    background-color: aquamarine;
+    padding: 30px;
+
+}
